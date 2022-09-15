@@ -1,6 +1,3 @@
-touch 5-more_numbers.c
-echo '#!/bin/bash'>5-more_numbers.c
-cat >5-more_numbers.c
 #include <stdio.h>
 #include "main.h"
 
